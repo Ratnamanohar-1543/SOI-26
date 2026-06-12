@@ -46,5 +46,5 @@ Grateful[^1]
 Table
 
 Name | college | Dept|
----
-Manohar|ALIET|IT
+---|---|---|
+Manohar|ALIET|IT|
