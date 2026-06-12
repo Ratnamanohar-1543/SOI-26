@@ -40,5 +40,5 @@ Grateful[^1]
 ---
 [^1]:Thanks
 
-- [ ] opt1
+- [X] opt1
 - [ ] opt2
