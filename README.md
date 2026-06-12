@@ -36,6 +36,6 @@ unordered lists
 - second
 + third
 
-top
+Grateful[^1]
 ---
-bottom
+[^1] Thanks
