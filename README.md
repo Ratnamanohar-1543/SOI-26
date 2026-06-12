@@ -48,5 +48,5 @@ Table
 Name | college | Dept|
 ---|---|---|
 Manohar|ALIET|IT|
----|---|---|
+
 NagaLakshmi|ALIET|IT|
