@@ -38,4 +38,4 @@ unordered lists
 
 Grateful[^1]
 ---
-[^1] Thanks
+[^1]:Thanks
