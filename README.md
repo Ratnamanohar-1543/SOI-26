@@ -11,3 +11,4 @@ online internship
 ~~strike~~
 
 Manohar <sub>ALIET</sub>
+(a+b)<sup>2</sup>
