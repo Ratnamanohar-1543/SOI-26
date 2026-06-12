@@ -12,5 +12,7 @@ online internship
 
 Manohar <sub>ALIET</sub>
 (a+b)<sup>2</sup>
-<ins> unserline2 </ins>
+<ins> underline </ins>
 > Note: This is markdown
+
+This is the `git command` markdown
