@@ -16,3 +16,9 @@ Manohar <sub>ALIET</sub>
 > Note: This is markdown
 
 This is the `git command` markdown
+
+```
+a=1
+b=2
+print(a+b)
+```
