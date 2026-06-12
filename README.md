@@ -42,3 +42,9 @@ Grateful[^1]
 
 - [X] opt1
 - [ ] opt2
+
+Table
+
+Name | college | Dept|
+---
+Manohar|ALIET|IT
