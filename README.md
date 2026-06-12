@@ -12,3 +12,6 @@ online internship
 
 Manohar <sub>ALIET</sub>
 (a+b)<sup>2</sup>
+<u> Underline </u>
+<ins> unserline2 </ins>
+> Note: This is markdown
